@@ -1,5 +1,5 @@
 # Building LIFF app into LINE
-Source code for LIFF v2 online course
+Source code for LIFF
 
 ## Prerequisites
 * Create a provider and a channel on the [LINE Developers console](https://developers.line.biz/en/docs/liff/getting-started/#creating-a-provider-and-channel)
